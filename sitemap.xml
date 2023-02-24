@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost/</loc>
+    <lastmod>2023-02-24T14:33:50+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost/giu/</loc>
+    <lastmod>2023-02-24T14:33:50+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost/sourcecode/</loc>
+    <lastmod>2023-02-24T14:33:50+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost/tags/</loc>
+  </url>
+</urlset>
